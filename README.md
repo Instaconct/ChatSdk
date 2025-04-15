@@ -33,5 +33,5 @@ Make sure you have `Node.js` installed. You can download it from [here](https://
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/sdk-chat-integration.git
-   cd sdk-chat-integration
+   git clone https://github.com/Instaconct/ChatSdk.git
+   cd sdk
